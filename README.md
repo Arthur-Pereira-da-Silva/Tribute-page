@@ -1,2 +1,10 @@
 # Tribute-page
- Projeto de Tecnologia e Desenvolvimento de Interface Grafica
+ Projeto para a elaboração de uma página de tributo
+ 
+ ✔Tecnologias:
+ 
+ - HTML e CSS
+
+🔎Tema:
+
+ - Página de Tributo dedicada a Steve Jobs!
