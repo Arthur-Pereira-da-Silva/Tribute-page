@@ -1,5 +1,5 @@
-# Tribute-page
- Projeto para a elaboração de uma página de tributo
+📝 Tribute-page
+ - Projeto para a elaboração de uma página de tributo
  
  ✔Tecnologias:
  
